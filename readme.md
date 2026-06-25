@@ -49,7 +49,7 @@ The token requires only DNS edit permission for the selected zone.
 Edit the following script:
 
 ```bash
-#!/usr/bin/env bash
+#!/bin/sh
 
 # CHANGE THESE
 authToken="YOUR_API_TOKEN"

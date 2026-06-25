@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # CHANGE THESE
 authToken="YOUR_API_TOKEN"
